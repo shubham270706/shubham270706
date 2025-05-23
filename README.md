@@ -42,7 +42,7 @@ Hi, I'm Shubham Mahato. I am building my path toward a career in **Blue Team ope
 
 - **GitHub:** [shubham270706](https://github.com/shubham270706)  
 - **Email:** shubhammahato224@gmail.com  
-- **LinkedIn:** ([99www.linkedin.com/in/shubham-mahato-0ba3872](https://www.linkedin.com/in/shubham-mahato-0ba387299/))
+- **LinkedIn:** ([shubham-mahato-0ba3872](https://www.linkedin.com/in/shubham-mahato-0ba387299/))
 ---
 
 ## 📜 License
