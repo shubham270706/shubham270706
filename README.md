@@ -32,8 +32,7 @@ Hi, I'm Shubham Mahato. I am building my path toward a career in **Blue Team ope
 
 ## 📚 Certifications & Learning
 
-- Completed **TryHackMe SOC Level 1**  
-- Currently enrolled in **Google IT Support Professional Certificate** on Coursera  
+- Completed **TryHackMe SOC Level 1**   
 - Short-term goals include learning scripting (Python and Bash), mastering SIEM tools, advancing threat detection skills, and preparing for a SOC Analyst role.
 
 ---
