@@ -77,7 +77,6 @@ I'm focused on real-world skills first — building and defending systems in my 
 
 - **GitHub:** [@shubham270706](https://github.com/shubham270706)  
 - **Email:** [shubhammahato224@gmail.com](mailto:shubhammahato224@gmail.com)  
-- **LinkedIn:** [shubham-mahato-0ba3872](https://www.linkedin.com/in/shubham-mahato-0ba387299/)
 
 ---
 
